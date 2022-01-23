@@ -1,7 +1,7 @@
 @import "reset.css";
-@import "top-bar.css";
-@import "login.css";
-@import "list.css";
+@import "css/top-bar.css";
+@import "css/login.css";
+@import "css/list.css";
 .hidden {
   display: none;
 }
